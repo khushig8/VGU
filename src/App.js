@@ -87,6 +87,7 @@ function App() {
   return (
     <React.Fragment>
       <div className="container">
+      <div id='google_translate_element'/>
         <CurrentLocation />
       </div>
     </React.Fragment>
